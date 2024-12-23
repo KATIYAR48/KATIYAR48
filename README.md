@@ -60,30 +60,4 @@ I'm **Nishant Katiyar**, a passionate Data Science Enthusiast dedicated to learn
     </a>
 </p>
 
-## 🌐 Personal Website
 
-- **[Portfolio](#):** Check out my [personal portfolio](#) for more details about my work and projects.
-
-## 📝 Recent Projects
-
-- **[Project 1](#):** Description of project 1.
-- **[Project 2](#):** Description of project 2.
-- **[Project 3](#):** Description of project 3.
-
-## 📚 Blog Posts
-
-- **[Blog Post 1](#):** A brief description of blog post 1.
-- **[Blog Post 2](#):** A brief description of blog post 2.
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my first project.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
