@@ -55,9 +55,6 @@ I'm **Nishant Katiyar**, a passionate Data Science Enthusiast dedicated to learn
     <a href="https://www.linkedin.com/in/nishantkatiyar">
         <img src="https://img.shields.io/badge/LinkedIn-Nishant%20Katiyar-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="https://twitter.com/NishantKatiyar">
-        <img src="https://img.shields.io/badge/Twitter-Nishant%20Katiyar-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-    </a>
     <a href="https://github.com/KATIYAR48">
         <img src="https://img.shields.io/badge/GitHub-KATIYAR48-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
